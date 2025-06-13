@@ -4,6 +4,7 @@
 <a href="https://www.youtube.com/watch?v=6u0NJOwvOMA&t=62s" target="_blank">
   <img src="resource/yt-bg-1.png" width="300" alt="Watch the video"/>
 </a><br>
+
 - 💿 Download PYNQ OS for Antminer S9 Control Board from, 👉 <a href="https://github.com/Muhammad-Yunus/Antminer-S9-PYNQ/releases">Release Page</a>
 
 #### Antminer S9 Board Layout <br>
