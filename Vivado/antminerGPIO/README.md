@@ -5,3 +5,4 @@
         - command : `cd ../path/to/your/antminerGPIO/`
     - in TCL Console, start build project using `.tcl` script,
         - command : `source antminerS9GPIO_vivado_proj.tcl`
+- Original project from : https://github.com/guannan-he/Antminer_s9_pynq/tree/main/antminerGPIO
